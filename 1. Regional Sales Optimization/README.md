@@ -1,4 +1,4 @@
-# 🗺️ Regional Sales Optimization
+# Regional Sales Optimization
 ## Objective
 Analyze historical sales data to identify performance trends by region and product category, enabling the company to make data-driven decisions to optimize sales strategies and resource allocation.
 
@@ -7,12 +7,13 @@ Analyze historical sales data to identify performance trends by region and produ
 ## Dataset
 - **Source:** Simulated company sales records (sample data provided in `data/processed/sample.csv`)
 - **Columns:**
-  |Main columns | Description|
-  |-|-|
-  `region` | geographic sales area  
-  `product` | product category or SKU  
-  `sales_amount` | total sales (USD)  
-  `date` | transaction date  
+  
+|Main columns | Description|
+|-|-|
+`region` | geographic sales area  
+`product` | product category or SKU  
+`sales_amount` | total sales (USD)  
+`date` | transaction date  
 
 | File | Description | Records | Columns | Notes |
 |------|-------------|---------|---------|-------|
