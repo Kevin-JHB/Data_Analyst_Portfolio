@@ -6,15 +6,18 @@ Analyze historical sales data to identify performance trends by region and produ
 
 ## Dataset
 - **Source:** Simulated company sales records (sample data provided in `data/processed/sample.csv`)
-- **Period:** 2022–2024
 - **Columns:**
-  
   |Main columns | Description|
   |-|-|
   `region` | geographic sales area  
   `product` | product category or SKU  
   `sales_amount` | total sales (USD)  
   `date` | transaction date  
+
+| File | Description | Records | Columns | Notes |
+|------|-------------|---------|---------|-------|
+| customers_raw.csv | Original messy customer data | 50,000 | 12 | Contains duplicates and missing values |
+| customers_clean.csv | Cleaned dataset | 48,750 | 12 | Ready for analysis, sample included for repo |
 
 ---
 
