@@ -5,20 +5,13 @@ Analyze historical sales data to identify performance trends by region and produ
 ---
 
 ## Dataset
-- **Source:** Simulated company sales records (sample data provided in `data/processed/sample.csv`)
-- **Columns:**
-  
-|Main columns | Description|
-|-|-|
-`region` | geographic sales area  
-`product` | product category or SKU  
-`sales_amount` | total sales (USD)  
-`date` | transaction date  
+- **Source:** Simulated company sales records
 
-| File | Description | Records | Columns | Notes |
-|------|-------------|---------|---------|-------|
-| customers_raw.csv | Original messy customer data | 50,000 | 12 | Contains duplicates and missing values |
-| customers_clean.csv | Cleaned dataset | 48,750 | 12 | Ready for analysis, sample included for repo |
+(sample data provided in `https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?select=Sample+-+Superstore.csv`)
+  
+| File | Description | Records | Columns | Size | Purpose |
+|------|-------------|---------|----------|-|-|
+| `Superstore Dataset.csv` | Raw data exported | 9,994 | 21 | 2,03 MB | 4 year's base market dataset |
 
 ---
 
@@ -46,9 +39,7 @@ Analyze historical sales data to identify performance trends by region and produ
 | Tool | Purpose |
 |------|----------|
 | **SQL (SSMS)** | Data cleaning, aggregation, and trend queries |
-| **Python (pandas, matplotlib)** | Exploratory analysis and visualization |
 | **Power BI** | Dashboard creation and KPI visualization |
-| **Excel** | Basic data validation and pivot summaries |
 
 ---
 
