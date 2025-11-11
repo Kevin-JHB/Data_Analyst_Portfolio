@@ -17,18 +17,19 @@ Analyze historical sales data to identify performance trends by region and produ
 
 ## Workflow
 1. **Data Cleaning & Preparation**  
-   - Removed duplicates and corrected inconsistent region names using SQL.  
-   - Handled missing sales values and standardized date formats.  
-   - Stored clean data in `data/processed/sales_cleaned.csv`.
+   - Removed duplicates and corrected inconsistent naming using SQL.  
+   - Ensured consistency and standardized data formats.  
+   - Stored clean data in `data/processed/Superstore_Dataset_Cleaned.csv`.
 
 2. **Exploratory Data Analysis (EDA)**  
-   - Calculated total and average sales per region and product.  
+   - Calculated total and average sales per region and product.
+   - Obtained Profit Margin by Product Category  
    - Identified top-performing regions and seasonal trends.  
-   - Used Python (`pandas`, `matplotlib`) for data summaries and initial visualizations.
 
 3. **Dashboard & Visualization**  
    - Designed an interactive Power BI dashboard displaying:  
-     - Regional and product-level sales breakdowns  
+     - Regional and product-level sales breakdowns
+     - Top Product Categories  
      - Monthly trends  
      - Best and worst performing regions  
    - Dashboard screenshots available in `/visuals/`.
