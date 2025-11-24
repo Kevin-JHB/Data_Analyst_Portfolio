@@ -45,12 +45,19 @@ Analyze historical sales data to identify performance trends by region and produ
 ---
 
 ## Key Insights
-- The **North region** consistently outperformed others, with **15% higher sales** than average.  
-- **Product Line A** showed strong growth during Q3 across all regions.  
-- Identified a **decline in the South region** tied to logistics delays.
+- The South Region shows the highest revenue and profit margin.
+
+- Tecnology and Office Supplies categories show the highest performace across regions.
+
+- Seasonal spikes observed in September, November and December.
+
+- Profitability strongly correlates with discount rates.
 
 ---
 
-## Impact
-- Helped define **strategic sales focus areas** and adjust distribution priorities.  
-- Provided a **data-backed sales performance dashboard** for weekly executive meetings.
+## Business Impact
+- Optimize product pricing to improve profit margins.
+
+- Adjust inventory based on seasonal sales patterns.
+
+- Focus training for sales teams in low-performing areas.
