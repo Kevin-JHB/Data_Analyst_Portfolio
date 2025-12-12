@@ -8,9 +8,9 @@ Create an interactive dashboard to track key performance indicators (KPIs) such 
 
 | File | Description | Records | Columns | Notes |
 |------|-------------|---------|---------|-------|
-| customers_clean.csv | Cleaned customer dataset | 48,750 | 12 | Standardized, analysis-ready customer data |
-| transactions.csv | Historical purchase transactions | 120,000 | 8 | Includes purchase date, product, quantity, and amount |
-| kpi_targets.csv | KPI targets and benchmarks | 36 | 4 | Reference values for comparison in dashboards |
+| Telco_Customer_Churn.csv | Cleaned customer dataset | 7043  | 21 | Standardized, analysis-ready customer's data |
+
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ## Workflow
 1. **Data Integration:**
@@ -30,7 +30,6 @@ Create an interactive dashboard to track key performance indicators (KPIs) such 
 |------|---------|
 | Power BI | Create interactive dashboards with filters, visuals, and KPIs |
 | Excel | Perform initial data aggregation, pivot tables, and quick calculations |
-| SQL | Validate data, aggregate metrics, and prepare datasets for visualization |
 
 ## Key Insights
 - Revenue and sales trends were clearly visualized by product and region.  
