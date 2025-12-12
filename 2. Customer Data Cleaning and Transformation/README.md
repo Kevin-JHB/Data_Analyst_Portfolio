@@ -20,6 +20,7 @@ Standardize and clean a messy customer dataset to ensure reliability for analysi
 |------|-------------|---------|---------|-------|
 | Customer_Data_Cleaning_and_Transformation.csv | Original messy customer data | 110.527 | 14 | Contains duplicates and missing values, requires deep cleanning |
 
+https://www.kaggle.com/datasets/joniarroba/noshowappointments
 
 
 ---
