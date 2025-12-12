@@ -11,15 +11,15 @@ Standardize and clean a messy customer dataset to ensure reliability for analysi
 - **Columns:**
   |Main columns | Description|
   |-|-|
-  `region` | geographic sales area  
-  `product` | product category or SKU  
-  `sales_amount` | total sales (USD)  
-  `date` | transaction date  
+  `PatientId` | Identification of a patient  
+  `AppointmentID` | Identification of each appointment  
+  `ScheduledDay` | day of the actuall appointment  
+  `AppointmentDay` | day someone called or registered the appointment  
 
 | File | Description | Records | Columns | Notes |
 |------|-------------|---------|---------|-------|
-| customers_raw.csv | Original messy customer data | 50,000 | 12 | Contains duplicates and missing values |
-| customers_clean.csv | Cleaned dataset | 48,750 | 12 | Ready for analysis, sample included for repo |
+| Customer_Data_Cleaning_and_Transformation.csv | Original messy customer data | 110.527 | 14 | Contains duplicates and missing values, requires deep cleanning |
+
 
 
 ---
@@ -37,7 +37,6 @@ Standardize and clean a messy customer dataset to ensure reliability for analysi
 | Tool | Purpose |
 |------|---------|
 | Python (pandas, numpy) | Data cleaning, transformation, handling missing values, and preparing datasets for analysis. |
-| SQL | Validate data integrity, check duplicates, and perform simple queries for data verification. |
 | Power BI | Create dashboards and visualizations using the cleaned dataset for reporting and insights. |
 
 ---
