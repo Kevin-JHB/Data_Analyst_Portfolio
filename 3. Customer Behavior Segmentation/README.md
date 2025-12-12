@@ -10,6 +10,8 @@ Segment customers based on purchase behavior, spending, and preferences to enabl
 |------|-------------|---------|---------|
 | Customer Behavior Segmentation.csv | A transactional dataset from a UK-based online retail store | 541,909 | 8 | 
 
+https://uci-ics-mlr-prod.aws.uci.edu/dataset/352/online%2Bretail?utm_source=chatgpt.com
+
 ## Workflow
 1. **Data Exploration:**
    - Analyze customer and transaction data to identify relevant features (purchase frequency, amount, categories).  
