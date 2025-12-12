@@ -5,18 +5,10 @@ Segment customers based on purchase behavior, spending, and preferences to enabl
 
 ## Dataset
 - **Source:** Simulated company sales records (sample data provided in `data/processed/sample.csv`)
-- **Columns:**
-  
-|Main columns | Description|
-|-|-|
-`region` | geographic sales area  
-`product` | product category or SKU  
-`sales_amount` | total sales (USD)  
-`date` | transaction date  
 
-| File | Description | Records | Columns | Notes |
-|------|-------------|---------|---------|-------|
-| Customer Behavior Segmentation.csv | Cleaned customer dataset from the previous project | 48,750 | 12 | Contains standardized, analysis-ready data |
+| File | Description | Records | Columns |
+|------|-------------|---------|---------|
+| Customer Behavior Segmentation.csv | A transactional dataset from a UK-based online retail store | 541,909 | 8 | 
 
 ## Workflow
 1. **Data Exploration:**
