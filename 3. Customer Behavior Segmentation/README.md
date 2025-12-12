@@ -16,8 +16,7 @@ Segment customers based on purchase behavior, spending, and preferences to enabl
 
 | File | Description | Records | Columns | Notes |
 |------|-------------|---------|---------|-------|
-| customers_clean.csv | Cleaned customer dataset from the previous project | 48,750 | 12 | Contains standardized, analysis-ready data |
-| transactions.csv | Historical purchase transactions | 120,000 | 8 | Includes purchase date, product, quantity, and amount |
+| Customer Behavior Segmentation.csv | Cleaned customer dataset from the previous project | 48,750 | 12 | Contains standardized, analysis-ready data |
 
 ## Workflow
 1. **Data Exploration:**
@@ -35,7 +34,6 @@ Segment customers based on purchase behavior, spending, and preferences to enabl
 
 | Tool | Purpose |
 |------|---------|
-| Python (pandas, numpy, scikit-learn) | Data manipulation, feature engineering, and clustering |
 | SQL | Validate customer and transaction data, perform aggregation queries |
 | Power BI | Visualize segments and trends for stakeholders |
 
