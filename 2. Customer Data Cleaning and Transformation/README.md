@@ -49,6 +49,5 @@ https://www.kaggle.com/datasets/urvishahir/global-freelancers-raw-dataset
 
 ## Impact
 - Enables reliable reporting and data-driven decision-making.  
-- Reduces errors in analytics pipelines.  
-- Demonstrates practical skills in SQL, Python, data cleaning, and preparing dashboards.
+- Demonstrates practical skills in SQL, data cleaning, and preparing dashboards.
 
