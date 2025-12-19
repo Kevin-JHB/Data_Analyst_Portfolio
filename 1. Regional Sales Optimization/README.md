@@ -16,6 +16,7 @@ Analyze historical sales data to identify performance trends by region and produ
 ---
 
 ## Workflow
+ [Check on the analysis](https://github.com/Kevin-JHB/Data_Analyst_Portfolio/blob/main/1.%20Regional%20Sales%20Optimization/notebooks/Regional_Sales_Optimization.ipynb)
 1. **Data Cleaning & Preparation**  
    - Removed duplicates and corrected inconsistent naming using SQL.  
    - Ensured consistency and standardized data formats.  
