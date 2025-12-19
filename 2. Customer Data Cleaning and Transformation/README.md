@@ -25,8 +25,7 @@ https://www.kaggle.com/datasets/urvishahir/global-freelancers-raw-dataset
 ---
 
 ## Workflow
- [Check on the analysis]([https://github.com/Kevin-JHB/Data_Analyst_Portfolio/tree/main/1.%20Regional%20Sales%20Optimization](https://github.com/Kevin-JHB/Data_Analyst_Portfolio/blob/main/2.%20Customer%20Data%20Cleaning%20and%20Transformation/notebooks/2_Customer_Data_Cleaning_and_Transformation.ipynb
-)
+ [Check on the analysis](https://github.com/Kevin-JHB/Data_Analyst_Portfolio/blob/main/2.%20Customer%20Data%20Cleaning%20and%20Transformation/notebooks/2_Customer_Data_Cleaning_and_Transformation.ipynb)
 1. **Data Import & Inspection:** using SQL Server.  
 2. **Data Cleaning:** remove duplicates, handle missing values, standardize formats.  
 3. **Validation:** SQL queries to verify data quality and integrity.  
