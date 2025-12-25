@@ -6,12 +6,12 @@ Analyze historical sales data to identify performance trends by region and produ
 
 ## Dataset
 - **Source:** Simulated company sales records
-
-(sample data provided in `https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?select=Sample+-+Superstore.csv`)
   
 | File | Description | Records | Columns | Size | Purpose |
 |------|-------------|---------|----------|-|-|
 | `Superstore Dataset.csv` | Raw data exported | 9,994 | 21 | 2,03 MB | 4 year's base market dataset |
+
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final?select=Sample+-+Superstore.csv
 
 ---
 
